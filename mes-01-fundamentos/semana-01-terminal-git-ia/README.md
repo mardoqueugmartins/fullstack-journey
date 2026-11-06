@@ -116,14 +116,14 @@ A IA acelera quem já entende o problema. Recrutadores descartam quem gera códi
 
 ### Dia 1
 
-- **O que aprendi:**
-- **O que travou:**
-- **Commits / links:**
+- **O que aprendi:** o terminal sempre está "dentro" de uma pasta, e tudo acontece ali.
+- **O que travou:** não sabia que rm apaga direto, sem passar pela lixeira.
+- **Commits / links:** diario.md
 
 ### Dia 2
 
-- **O que aprendi:**
-- **O que travou:**
+- **O que aprendi:** 
+- **O que travou:** 
 - **Commits / links:**
 
 ### Dia 3
