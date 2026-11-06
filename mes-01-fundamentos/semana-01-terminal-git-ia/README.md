@@ -127,11 +127,8 @@ A IA acelera quem já entende o problema. Recrutadores descartam quem gera códi
 
 - **O que aprendi:** o git permite criar versões do código, trabalhar em equipe sem causar problemas no código.
 - **O que travou:** não sabia muito bem como criar branchs e fazer merge.
-- **Commits / links:** git commit -m "chore: inicializa projeto"
-  git commit -m "docs: adiciona README do projeto"
-  git commit -m "fix: corrige link quebrado no README"
-  git commit -m "feat: adiciona título na página inicial"
-  git commit -m "docs: atualiza instruções de instalação"
+- **Commits / links:** `7534ff4` desafio do dia 2, `8092364` resumo do dia 2
+
 
 ### Dia 3
 
