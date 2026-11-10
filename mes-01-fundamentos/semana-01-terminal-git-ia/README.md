@@ -132,9 +132,9 @@ A IA acelera quem já entende o problema. Recrutadores descartam quem gera códi
 
 ### Dia 3
 
-- **O que aprendi:**
-- **O que travou:**
-- **Commits / links:**
+- **O que aprendi:** aprendi como resolver um conflito de linhas no merge.
+- **O que travou:** não sabia como corrigir, mas lendo os arquivos, consegui resolver o conflito.
+- **Commits / links:** https://github.com/mardoqueugmartins/estudos-fullstack/pull/1
 
 ### Dia 4
 
