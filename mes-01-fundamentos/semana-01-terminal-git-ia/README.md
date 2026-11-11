@@ -50,7 +50,6 @@ Git guarda o histórico do projeto em fotos chamadas commits. Você pode voltar 
 
 - **Commits / links:** `docs(semana-01): adiciona desafio do dia 2`, `docs(semana-01): adiciona resumo do dia 2`
 
-
 ### Dia 3 · GitHub, branches e Pull Request
 
 Branch é uma linha paralela de trabalho. Pull Request é o pedido para juntar essa linha na principal, com revisão de outra pessoa.
@@ -129,7 +128,6 @@ A IA acelera quem já entende o problema. Recrutadores descartam quem gera códi
 - **O que travou:** não sabia muito bem como criar branchs e fazer merge.
 - **Commits / links:** `7534ff4` desafio do dia 2, `8092364` resumo do dia 2
 
-
 ### Dia 3
 
 - **O que aprendi:** aprendi como resolver um conflito de linhas no merge.
@@ -138,8 +136,8 @@ A IA acelera quem já entende o problema. Recrutadores descartam quem gera códi
 
 ### Dia 4
 
-- **O que aprendi:**
-- **O que travou:**
+- **O que aprendi:** aprendi como usar "git restore" e também que antes do merge tem que abrir PR.
+- **O que travou:** git restore x git reset.
 - **Commits / links:**
 
 ### Dia 5
