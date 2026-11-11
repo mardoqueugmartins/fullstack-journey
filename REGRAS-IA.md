@@ -4,9 +4,9 @@ A IA acelera quem já entende o problema. Neste repositório ela atua como **tut
 
 ## Minhas 3 regras principais
 
-1. **Escrevo primeiro, peço revisão depois.** Nunca o contrário.
-2. **Travei por 15 minutos? Peço uma dica, não a resposta.**
-3. **Se não consigo explicar uma linha que a IA escreveu, ela não entra no meu código.**
+1. **Peço para IA me explicar, escrevo e peço para IA revisar depois.** Nunca o contrário.
+2. **Travei por 15 minutos? Peço uma dica, não a resposta.** Não delegar o meu cérebro para a IA.
+3. **Sempre testo o que a IA sugeriu antes de colocar no código.** 
 
 ## Regras de apoio
 
