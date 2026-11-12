@@ -20,12 +20,12 @@ O terminal é uma forma de conversar com o computador por comandos de texto. Com
 
 **Exercícios**
 
-- [ ] Use pwd, ls e cd para navegar até a sua pasta de usuário.
-- [ ] Crie a pasta estudos-fullstack com mkdir e entre nela.
-- [ ] Crie 3 arquivos com touch (notas.md, index.html, app.js) e liste com ls -la.
-- [ ] Renomeie notas.md para diario.md com mv e apague app.js com rm.
-- [ ] Instale Node LTS e VS Code. Confirme com node -v e npm -v.
-- [ ] Abra a pasta no VS Code direto do terminal com code .
+- [x] Use pwd, ls e cd para navegar até a sua pasta de usuário.
+- [x] Crie a pasta estudos-fullstack com mkdir e entre nela.
+- [x] Crie 3 arquivos com touch (notas.md, index.html, app.js) e liste com ls -la.
+- [x] Renomeie notas.md para diario.md com mv e apague app.js com rm.
+- [x] Instale Node LTS e VS Code. Confirme com node -v e npm -v.
+- [x] Abra a pasta no VS Code direto do terminal com code .
 
 **Desafio:** Escreva no diario.md 10 comandos que você usou hoje e o que cada um faz, sem consultar.
 
@@ -39,12 +39,12 @@ Git guarda o histórico do projeto em fotos chamadas commits. Você pode voltar 
 
 **Exercícios**
 
-- [ ] Rode git init na pasta estudos-fullstack.
-- [ ] Configure git config --global user.name e user.email.
-- [ ] Faça 3 commits com mensagens claras, usando git status antes de cada um.
-- [ ] Use git diff para ver o que mudou antes de commitar.
-- [ ] Veja o histórico com git log --oneline.
-- [ ] Estrague um arquivo de propósito e recupere com git restore.
+- [x] Rode git init na pasta estudos-fullstack.
+- [x] Configure git config --global user.name e user.email.
+- [x] Faça 3 commits com mensagens claras, usando git status antes de cada um.
+- [x] Use git diff para ver o que mudou antes de commitar.
+- [x] Veja o histórico com git log --oneline.
+- [x] Estrague um arquivo de propósito e recupere com git restore.
 
 **Desafio:** Reescreva 5 mensagens de commit no padrão Conventional Commits (feat:, fix:, docs:, refactor:, chore:).
 
@@ -60,12 +60,12 @@ Branch é uma linha paralela de trabalho. Pull Request é o pedido para juntar e
 
 **Exercícios**
 
-- [ ] Crie um repositório no GitHub e faça push do seu projeto.
-- [ ] Configure acesso por chave SSH.
-- [ ] Crie a branch feature/readme, faça um commit e abra um Pull Request.
-- [ ] Faça o merge do PR e atualize sua main local com git pull.
-- [ ] Provoque um conflito de merge de propósito e resolva.
-- [ ] Clone um repositório público e rode git log nele.
+- [x] Crie um repositório no GitHub e faça push do seu projeto.
+- [x] Configure acesso por chave SSH.
+- [x] Crie a branch feature/readme, faça um commit e abra um Pull Request.
+- [x] Faça o merge do PR e atualize sua main local com git pull.
+- [x] Provoque um conflito de merge de propósito e resolva.
+- [x] Clone um repositório público e rode git log nele.
 
 **Desafio:** Abra um PR com descrição completa: o que mudou, por que mudou e como testar.
 
@@ -79,12 +79,12 @@ A IA acelera quem já entende o problema. Recrutadores descartam quem gera códi
 
 **Exercícios**
 
-- [ ] Peça à IA para explicar merge vs rebase e reescreva com suas palavras.
-- [ ] Peça 5 perguntas de prova sobre Git e responda sem consultar.
-- [ ] Escreva um prompt com contexto, objetivo e formato de saída.
-- [ ] Peça para a IA revisar uma mensagem de commit sua e anote se concorda.
-- [ ] Instale um assistente no VS Code e desligue o autocompletar durante exercícios.
-- [ ] Crie o arquivo REGRAS-IA.md com suas 3 regras pessoais de uso.
+- [x] Peça à IA para explicar merge vs rebase e reescreva com suas palavras.
+- [x] Peça 5 perguntas de prova sobre Git e responda sem consultar.
+- [x] Escreva um prompt com contexto, objetivo e formato de saída.
+- [x] Peça para a IA revisar uma mensagem de commit sua e anote se concorda.
+- [x] Instale um assistente no VS Code e desligue o autocompletar durante exercícios.
+- [x] Crie o arquivo REGRAS-IA.md com suas 3 regras pessoais de uso.
 
 **Desafio:** Faça uma pergunta técnica à IA e encontre um erro ou imprecisão conferindo na documentação oficial.
 
@@ -105,7 +105,7 @@ A IA acelera quem já entende o problema. Recrutadores descartam quem gera códi
 **Critérios de pronto**
 
 - [x] Pelo menos 5 commits no padrão Conventional Commits
-- [ ] README legível no celular
+- [x] README legível no celular
 - [x] Link do repositório salvo abaixo
 
 **Entrega:** https://github.com/mardoqueugmartins/fullstack-journey
