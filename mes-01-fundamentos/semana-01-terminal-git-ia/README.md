@@ -96,19 +96,19 @@ A IA acelera quem já entende o problema. Recrutadores descartam quem gera códi
 
 **Requisitos**
 
-- [ ] README com quem você é, stack-alvo e este roadmap
-- [ ] Uma pasta por semana com anotações
-- [ ] Profile README no GitHub (repositório com seu usuário)
-- [ ] Foto, bio e link do LinkedIn no perfil
-- [ ] Regras de IA publicadas no repositório
+- [x] README com quem você é, stack-alvo e este roadmap
+- [x] Uma pasta por semana com anotações
+- [x] Profile README no GitHub (repositório com seu usuário)
+- [x] Foto, bio e link do LinkedIn no perfil
+- [x] Regras de IA publicadas no repositório
 
 **Critérios de pronto**
 
-- [ ] Pelo menos 5 commits no padrão Conventional Commits
+- [x] Pelo menos 5 commits no padrão Conventional Commits
 - [ ] README legível no celular
-- [ ] Link do repositório salvo abaixo
+- [x] Link do repositório salvo abaixo
 
-**Entrega:** _link do repositório ou deploy_
+**Entrega:** https://github.com/mardoqueugmartins/fullstack-journey
 
 ---
 
@@ -142,6 +142,6 @@ A IA acelera quem já entende o problema. Recrutadores descartam quem gera códi
 
 ### Dia 5
 
-- **O que aprendi:**
-- **O que travou:**
-- **Commits / links:**
+- **O que aprendi:** aprendi a configurar o meu GitHub (foto, bio, README).
+- **O que travou:** escrever com clareza o que eu aprendi nesta etapa.
+- **Commits / links:** https://github.com/mardoqueugmartins/fullstack-journey
