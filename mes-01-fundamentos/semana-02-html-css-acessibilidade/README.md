@@ -20,12 +20,12 @@ Tags semânticas (header, nav, main, article, section, footer) dizem o significa
 
 **Exercícios**
 
-- [ ] Refaça uma página feita só com div usando tags semânticas.
-- [ ] Organize a hierarquia de títulos h1, h2 e h3 sem pular níveis.
-- [ ] Crie um formulário com label ligado a cada input.
-- [ ] Escreva alt descritivo para 5 imagens (e alt vazio para as decorativas).
-- [ ] Monte uma tabela com thead, tbody e th com scope.
-- [ ] Valide a página no validator.w3.org e corrija os erros.
+- [x] Refaça uma página feita só com div usando tags semânticas.
+- [x] Organize a hierarquia de títulos h1, h2 e h3 sem pular níveis.
+- [x] Crie um formulário com label ligado a cada input.
+- [x] Escreva alt descritivo para 5 imagens (e alt vazio para as decorativas).
+- [x] Monte uma tabela com thead, tbody e th com scope.
+- [x] Valide a página no validator.w3.org e corrija os erros.
 
 **Desafio:** Navegue pela sua página só com a tecla Tab e anote onde o foco some ou fica confuso.
 
@@ -116,9 +116,9 @@ Acessibilidade garante que todos usem o site (contraste, teclado, leitor de tela
 
 ### Dia 6
 
-- **O que aprendi:**
-- **O que travou:**
-- **Commits / links:**
+- **O que aprendi:** hoje aprendi a importância do HTML semântico para acessibilidade e SEO.
+- **O que travou:** lembrar qual tag deveria ser utilizada.
+- **Commits / links:** https://github.com/mardoqueugmartins/fullstack-journey/pull/6
 
 ### Dia 7
 
