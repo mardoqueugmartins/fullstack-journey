@@ -1,3 +1,5 @@
+# Diário · Semana 02
+
 ## Dia 6 · Desafio: navegação só com Tab
 
 - Ordem do foco: links (serviços, contato), nome, email, telefone, mensagem e botão.
