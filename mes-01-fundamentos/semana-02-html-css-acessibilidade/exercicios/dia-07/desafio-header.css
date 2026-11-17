@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+  display: flex;
+  padding: 1rem;
+  justify-content: flex-end;
+  gap: 2rem;
+  align-items: center;
+}
+
+.menu ul {
+  display: flex;
+  gap: 2rem;
+  list-style: none;
+  align-items: center;
+}
+
+.menu a {
+  text-decoration: none;
+  color: #1f1f1f;
+  font-size: 0.9rem;
+}
+
+.foto {
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+}

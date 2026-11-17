@@ -39,12 +39,12 @@ Todo elemento é uma caixa: conteúdo, padding, borda e margem. Flexbox organiza
 
 **Exercícios**
 
-- [ ] Monte uma navbar com logo à esquerda e links à direita.
-- [ ] Centralize um card na vertical e na horizontal.
-- [ ] Faça 3 cards que quebram linha com flex-wrap.
-- [ ] Troque margens por gap entre itens.
-- [ ] Explique num comentário o que box-sizing: border-box muda.
-- [ ] Jogue o Flexbox Froggy até o nível 24.
+- [x] Monte uma navbar com logo à esquerda e links à direita.
+- [x] Centralize um card na vertical e na horizontal.
+- [x] Faça 3 cards que quebram linha com flex-wrap.
+- [x] Troque margens por gap entre itens.
+- [x] Explique num comentário o que box-sizing: border-box muda.
+- [x] Jogue o Flexbox Froggy até o nível 24.
 
 **Desafio:** Recrie o cabeçalho de um site famoso usando só flexbox.
 
@@ -122,9 +122,9 @@ Acessibilidade garante que todos usem o site (contraste, teclado, leitor de tela
 
 ### Dia 7
 
-- **O que aprendi:**
-- **O que travou:**
-- **Commits / links:**
+- **O que aprendi:** aprendi que todo elemento é como uma caixa.
+- **O que travou:** travei um pouco na parte dos comandos (row-reverse, align-self, flex-direction)
+- **Commits / links:** https://github.com/mardoqueugmartins/fullstack-journey/pull/7
 
 ### Dia 8
 
