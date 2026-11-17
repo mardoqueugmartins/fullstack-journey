@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  /* com border-box o width passa a ser o tamanho total da caixa. Sem ele, o width vale só para o conteúdo, e a caixa total cresce. */
+  box-sizing: border-box;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2rem;
+}
+
+.menu ul {
+  display: flex;
+  list-style: none;
+  gap: 1.5rem;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+}
+
+.cards img {
+  max-width: 100%;
+}
+
+.card {
+  padding: 2rem;
+  width: 280px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
