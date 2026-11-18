@@ -1,0 +1,68 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100vh;
+}
+
+h1 {
+  font-size: 2rem;
+  font-weight: 800;
+}
+
+h2 {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+h3 {
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+p {
+  font-size: 1rem;
+  font-weight: 400;
+}
+
+header {
+  grid-area: topo;
+  background-color: rgb(215, 215, 215);
+  padding: 1rem;
+}
+aside {
+  grid-area: menu;
+  background-color: rgb(255, 89, 56);
+  padding: 1rem;
+  margin: 2rem 0;
+}
+main {
+  grid-area: conteudo;
+  background-color: rgb(255, 255, 255);
+  padding: 2rem;
+}
+footer {
+  grid-area: rodape;
+  background-color: rgb(215, 215, 215);
+  padding: 0.5rem;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.pagina {
+  display: grid;
+  grid-template-areas: "topo" "conteudo" "menu" "rodape";
+}
+
+@media (min-width: 768px) {
+  .pagina {
+    grid-template-columns: 22rem 1fr;
+    grid-template-areas: "topo topo" "menu conteudo" "rodape rodape";
+  }
+}
