@@ -130,7 +130,7 @@ Acessibilidade garante que todos usem o site (contraste, teclado, leitor de tela
 
 - **O que aprendi:** aprendi utilizar o grid-template-areas, grids, minmax, mobile-first...
 - **O que travou:** travei um pouco para organizar bem o código, usei aspas no grid-area...
-- **Commits / links:**
+- **Commits / links:** - **Commits / links:** [PR #8](https://github.com/mardoqueugmartins/fullstack-journey/pull/8)
 
 ### Dia 9
 
