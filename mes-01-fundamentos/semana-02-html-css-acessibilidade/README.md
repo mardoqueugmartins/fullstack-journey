@@ -58,12 +58,12 @@ Grid organiza em linhas e colunas ao mesmo tempo. Media queries e unidades relat
 
 **Exercícios**
 
-- [ ] Galeria com grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)).
-- [ ] Layout com header, sidebar, main e footer usando grid-template-areas.
-- [ ] Converta um layout desktop para mobile-first com media queries.
-- [ ] Troque px por rem nas fontes e espaçamentos.
-- [ ] Torne uma imagem responsiva sem distorcer.
-- [ ] Complete o Grid Garden.
+- [x] Galeria com grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)).
+- [x] Layout com header, sidebar, main e footer usando grid-template-areas.
+- [x] Converta um layout desktop para mobile-first com media queries.
+- [x] Troque px por rem nas fontes e espaçamentos.
+- [x] Torne uma imagem responsiva sem distorcer.
+- [x] Complete o Grid Garden.
 
 **Desafio:** Monte um layout de dashboard que vira uma coluna só em 400px de largura.
 
@@ -128,8 +128,8 @@ Acessibilidade garante que todos usem o site (contraste, teclado, leitor de tela
 
 ### Dia 8
 
-- **O que aprendi:**
-- **O que travou:**
+- **O que aprendi:** aprendi utilizar o grid-template-areas, grids, minmax, mobile-first...
+- **O que travou:** travei um pouco para organizar bem o código, usei aspas no grid-area...
 - **Commits / links:**
 
 ### Dia 9
