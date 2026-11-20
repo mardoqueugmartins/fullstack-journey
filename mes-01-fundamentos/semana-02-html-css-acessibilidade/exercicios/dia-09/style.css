@@ -1,0 +1,66 @@
+* {
+  margin: 0;
+  padding: 0;
+  /* com border-box o width passa a ser o tamanho total da caixa. Sem ele, o width vale só para o conteúdo, e a caixa total cresce. */
+  box-sizing: border-box;
+}
+
+body {
+  color: #4d4d4d;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2rem;
+}
+
+.menu ul {
+  display: flex;
+  list-style: none;
+  gap: 1.5rem;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+}
+
+.cards img {
+  max-width: 100%;
+}
+
+.card {
+  padding: 2rem;
+  width: 280px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+a:focus-visible {
+  outline: 2px solid #007ad2;
+  outline-offset: 10px;
+}
+
+button:focus-visible {
+  outline: 2px solid #007ad2;
+  outline-offset: 10px;
+}
+
+.card {
+  transition: transform 0.3s;
+}
+.card:hover {
+  transform: scale(1.05);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .card {
+    transition: transform 0s;
+  }
+  .card:hover {
+    transform: none;
+  }
+}

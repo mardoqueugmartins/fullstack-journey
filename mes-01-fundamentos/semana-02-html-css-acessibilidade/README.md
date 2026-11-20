@@ -77,12 +77,12 @@ Acessibilidade garante que todos usem o site (contraste, teclado, leitor de tela
 
 **Exercícios**
 
-- [ ] Rode o Lighthouse num site seu e anote 5 problemas.
-- [ ] Corrija o contraste de cores com um verificador de contraste.
-- [ ] Deixe o foco visível em todos os botões e links.
-- [ ] Converta imagens para webp e use loading=lazy.
-- [ ] Adicione aria-label em botões que só têm ícone.
-- [ ] Respeite prefers-reduced-motion nas animações.
+- [x] Rode o Lighthouse num site seu e anote 5 problemas.
+- [x] Corrija o contraste de cores com um verificador de contraste.
+- [x] Deixe o foco visível em todos os botões e links.
+- [x] Converta imagens para webp e use loading=lazy.
+- [x] Adicione aria-label em botões que só têm ícone.
+- [x] Respeite prefers-reduced-motion nas animações.
 
 **Desafio:** Chegue a 90+ em Acessibilidade num site real que você já entregou.
 
@@ -130,13 +130,14 @@ Acessibilidade garante que todos usem o site (contraste, teclado, leitor de tela
 
 - **O que aprendi:** aprendi utilizar o grid-template-areas, grids, minmax, mobile-first...
 - **O que travou:** travei um pouco para organizar bem o código, usei aspas no grid-area...
-- **Commits / links:** - **Commits / links:** [PR #8](https://github.com/mardoqueugmartins/fullstack-journey/pull/8)
+- **Commits / links:** [PR #8](https://github.com/mardoqueugmartins/fullstack-journey/pull/8)
 
 ### Dia 9
 
-- **O que aprendi:**
-- **O que travou:**
-- **Commits / links:**
+- **O que aprendi:** contraste (WCAG AA 4.5:1), foco visível com :focus-visible, aria-label em botão só com ícone, webp + loading="lazy" (nunca na imagem principal), prefers-reduced-motion e como ler o Lighthouse.
+- **O que travou:** o deploy do site real no cPanel depois do merge, e o zsh "comendo" o :r de $NOVO:refs no push.
+- **Commits / links:** [PR #9](https://github.com/mardoqueugmartins/fullstack-journey/pull/9)
+
 
 ### Dia 10
 
