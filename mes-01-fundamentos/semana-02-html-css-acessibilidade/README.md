@@ -136,7 +136,8 @@ Acessibilidade garante que todos usem o site (contraste, teclado, leitor de tela
 
 - **O que aprendi:** contraste (WCAG AA 4.5:1), foco visível com :focus-visible, aria-label em botão só com ícone, webp + loading="lazy" (nunca na imagem principal), prefers-reduced-motion e como ler o Lighthouse.
 - **O que travou:** o deploy do site real no cPanel depois do merge, e o zsh "comendo" o :r de $NOVO:refs no push.
-- **Commits / links:**
+- **Commits / links:** [PR #9](https://github.com/mardoqueugmartins/fullstack-journey/pull/9)
+
 
 ### Dia 10
 
