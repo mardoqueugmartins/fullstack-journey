@@ -24,3 +24,17 @@
 - rem: 1rem = **16px. Melhor que px porque cresce junto quando a pessoa aumenta a fonte no navegador (acessibilidade)**.
 - object-fit: cover **preenche o espaço e corta as bordas da foto, contain mostra a foto inteira e deixa faixas vazias**.
 - Desafio (dashboard): montei header, menu lateral, 4 cartões num grid e uma área de gráfico. Travei nas aspas do grid-area e no 1f no lugar de 1fr.
+
+## Dia 9 · Acessibilidade e performance
+
+- Performance: 78, Acessibilidade: 100, Boas práticas: 96, SEO: 91.
+- LCP request discovery: o maior elemento da tela está demorando para ser encontrado e carregado.
+- Network dependency tree: um arquivo fica esperando outro para carregar, atrasando o carregamento.
+- Forced reflow: o navegador teve que recalcular o layout várias vezes para conseguir exibir.
+- Use efficient cache lifetimes: o servidor não pede para o navegador salvar arquivos.
+- Document request latency: o HTML está demorando muito para chegar.
+- Viewport adicionado.
+- Contraste: #aaaaaa sobre branco = 2.3:1 (Fail). #4d4d4d = 8.4:1 (Pass).
+- Performance - nova nota: 83, Acessibilidade: 100, Boas práticas: 92, SEO: 91.
+- Desafio: sitesporassinatura.mardoqueumartins.com.br foi de 88 para 96 em Acessibilidade (no ar). Problemas: contraste baixo (text-ink/45–55 → /65) e <dl> com divs no meio (cada card ganhou seu próprio <dl>). PRs #1 e #2 no repo do site.
+- Deploy: o cPanel deu "could not contact the remote repository". Causa: o workflow recriava o branch deploy do zero (push -f) e o cPanel só aceita fast-forward. Corrigi empilhando cada build em cima do anterior.
